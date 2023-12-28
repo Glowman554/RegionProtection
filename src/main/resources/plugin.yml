@@ -1,0 +1,4 @@
+name: RegionProtection
+version: '${project.version}'
+main: de.glowman554.regionprotection.RegionProtectionMain
+api-version: '1.20'
